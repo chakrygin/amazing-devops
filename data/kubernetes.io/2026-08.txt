@@ -3,3 +3,4 @@ https://kubernetes.io/blog/2026/08/11/how-to-pretty-print-kubernetes-yaml-as-kya
 https://kubernetes.io/blog/2026/08/26/kubernetes-v1-37-release/
 https://kubernetes.io/blog/2026/08/27/kubernetes-v1-37-metrics-api-ga/
 https://kubernetes.io/blog/2026/08/28/kubernetes-v1-37-pod-certificates-and-cluster-trust-bundles/
+https://kubernetes.io/blog/2026/08/31/kubernetes-v1-37-storage-version-migration-ga/
