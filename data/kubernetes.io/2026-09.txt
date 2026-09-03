@@ -1,1 +1,2 @@
 https://kubernetes.io/blog/2026/09/01/kubernetes-v1-37-etcd-range-stream/
+https://kubernetes.io/blog/2026/09/02/kubernetes-v1-37-hpa-scale-to-zero-beta/
