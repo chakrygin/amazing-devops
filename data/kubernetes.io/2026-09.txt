@@ -3,3 +3,4 @@ https://kubernetes.io/blog/2026/09/02/kubernetes-v1-37-hpa-scale-to-zero-beta/
 https://kubernetes.io/blog/2026/09/03/kubernetes-v1-37-dra-updates/
 https://kubernetes.io/blog/2026/09/04/kubernetes-v1-37-rootless-beta/
 https://kubernetes.io/blog/2026/09/08/kubernetes-v1-37-advancing-workload-aware-scheduling/
+https://kubernetes.io/blog/2026/09/09/kubernetes-v1-37-node-lifecycle-conditions/
