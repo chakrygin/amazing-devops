@@ -6,3 +6,5 @@ https://kubernetes.io/blog/2026/09/08/kubernetes-v1-37-advancing-workload-aware-
 https://kubernetes.io/blog/2026/09/09/kubernetes-v1-37-node-lifecycle-conditions/
 https://kubernetes.io/blog/2026/09/10/kubernetes-v1-37-scheduler-preemption-for-in-place-pod-resize-alpha/
 https://kubernetes.io/blog/2026/09/11/kubernetes-v1-37-native-histograms-beta/
+https://kubernetes.io/blog/2026/09/14/csi-changed-block-tracking-beta/
+https://kubernetes.io/blog/2026/09/14/kubernetes-v1-37-memory-qos-graduates-to-beta/
